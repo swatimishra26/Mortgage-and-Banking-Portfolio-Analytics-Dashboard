@@ -61,8 +61,8 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 ## 📈 Dashboard Pages (Power BI)
 
 1. **Home**
-2. **Loan Analysis**
-3. **Deposit Analysis**
+2. **Credit Risk & Collections Analysis**
+3. **Treasury & Liquidity Analysis**
 4. **Summary**
 
 ---
